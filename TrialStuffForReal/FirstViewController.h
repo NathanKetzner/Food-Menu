@@ -9,5 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface FirstViewController : UIViewController
+- (IBAction)pepperTheEggs:(id)sender;
+- (IBAction)ketchupTheEggs:(id)sender;
+- (IBAction)eatTheEggs:(id)sender;
+- (IBAction)goToJail:(id)sender;
 
 @end
