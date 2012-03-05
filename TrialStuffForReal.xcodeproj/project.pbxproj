@@ -20,6 +20,7 @@
 		A9D5B5D21505124F0039BA9A /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9D5B5D11505124F0039BA9A /* SecondViewController.m */; };
 		A9D5B5D41505124F0039BA9A /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = A9D5B5D31505124F0039BA9A /* second.png */; };
 		A9D5B5D61505124F0039BA9A /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A9D5B5D51505124F0039BA9A /* second@2x.png */; };
+		A9D5B5DD150513280039BA9A /* scrambled_eggs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9D5B5DC150513280039BA9A /* scrambled_eggs.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,21 +28,22 @@
 		A9D5B5B41505124F0039BA9A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A9D5B5B61505124F0039BA9A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A9D5B5B81505124F0039BA9A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		A9D5B5BC1505124F0039BA9A /* TrialStuffForReal-Info.plist */ = {isa = PBXFileReference; path = "TrialStuffForReal-Info.plist"; sourceTree = "<group>"; };
+		A9D5B5BC1505124F0039BA9A /* TrialStuffForReal-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TrialStuffForReal-Info.plist"; sourceTree = "<group>"; };
 		A9D5B5BE1505124F0039BA9A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A9D5B5C01505124F0039BA9A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A9D5B5C21505124F0039BA9A /* TrialStuffForReal-Prefix.pch */ = {isa = PBXFileReference; path = "TrialStuffForReal-Prefix.pch"; sourceTree = "<group>"; };
-		A9D5B5C31505124F0039BA9A /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		A9D5B5C21505124F0039BA9A /* TrialStuffForReal-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TrialStuffForReal-Prefix.pch"; sourceTree = "<group>"; };
+		A9D5B5C31505124F0039BA9A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A9D5B5C41505124F0039BA9A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		A9D5B5C71505124F0039BA9A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		A9D5B5C91505124F0039BA9A /* FirstViewController.h */ = {isa = PBXFileReference; path = FirstViewController.h; sourceTree = "<group>"; };
+		A9D5B5C91505124F0039BA9A /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		A9D5B5CA1505124F0039BA9A /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		A9D5B5CC1505124F0039BA9A /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		A9D5B5CE1505124F0039BA9A /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		A9D5B5D01505124F0039BA9A /* SecondViewController.h */ = {isa = PBXFileReference; path = SecondViewController.h; sourceTree = "<group>"; };
+		A9D5B5D01505124F0039BA9A /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		A9D5B5D11505124F0039BA9A /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		A9D5B5D31505124F0039BA9A /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		A9D5B5D51505124F0039BA9A /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		A9D5B5DC150513280039BA9A /* scrambled_eggs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = scrambled_eggs.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				A9D5B5D11505124F0039BA9A /* SecondViewController.m */,
 				A9D5B5D31505124F0039BA9A /* second.png */,
 				A9D5B5D51505124F0039BA9A /* second@2x.png */,
+				A9D5B5DC150513280039BA9A /* scrambled_eggs.jpg */,
 				A9D5B5BB1505124F0039BA9A /* Supporting Files */,
 			);
 			path = TrialStuffForReal;
@@ -171,6 +174,7 @@
 				A9D5B5CF1505124F0039BA9A /* first@2x.png in Resources */,
 				A9D5B5D41505124F0039BA9A /* second.png in Resources */,
 				A9D5B5D61505124F0039BA9A /* second@2x.png in Resources */,
+				A9D5B5DD150513280039BA9A /* scrambled_eggs.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
